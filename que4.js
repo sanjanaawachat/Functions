@@ -1,0 +1,16 @@
+//que4
+
+//print output
+
+var x=21;
+var girl = function(){
+    console.log(x);
+    var x=20;
+
+};
+girl();
+
+
+//ans
+
+undefined
